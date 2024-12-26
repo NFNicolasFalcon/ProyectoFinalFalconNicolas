@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nombre": "Semillas de Trigo ACA 315",
+      "precio": 24000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-trigo-2022_fresno.png",
+      "descripcion": "Alta productividad y tolerancia a enfermedades."
+    },
+    {
+      "id": 2,
+      "nombre": "Semillas de Girasol ACA 420",
+      "precio": 35000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-girasol-2022_216cldm.png",
+      "descripcion": "Resistente a condiciones climáticas adversas."
+    },
+    {
+      "id": 3,
+      "nombre": "Semillas de Soja ACA 560",
+      "precio": 28000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-soja-2022_560_no_ogm.png",
+      "descripcion": "Gran adaptabilidad a diferentes suelos."
+    },
+    {
+      "id": 4,
+      "nombre": "Semillas de Maíz ACA 750",
+      "precio": 46000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-maiz-2022_480_rr2.png",
+      "descripcion": "Máxima calidad para una cosecha abundante."
+    },
+    {
+      "id": 5,
+      "nombre": "Semillas de Alfalfa ACA 101",
+      "precio": 18000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/a/l/alfalfa_salina_1.png",
+      "descripcion": "Perfecta para producción de forraje de alta calidad."
+    },
+    {
+      "id": 6,
+      "nombre": "Semillas de Sorgo ACA 800",
+      "precio": 23000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-s.forrajero-2022_711_bmr.png",
+      "descripcion": "Ideal para suelos de bajo rendimiento."
+    },
+    {
+      "id": 7,
+      "nombre": "Semillas de Cebada ACA 120",
+      "precio": 22000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-cebada-2022_sinfonia.png",
+      "descripcion": "Excelente calidad para maltería y forraje."
+    },
+    {
+      "id": 8,
+      "nombre": "Semillas de Avena ACA 310",
+      "precio": 20000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_796747-MLM77843584892_072024-O.webp",
+      "descripcion": "Alta resistencia a heladas y gran rendimiento."
+    },
+    {
+      "id": 9,
+      "nombre": "Semillas de Trigo Duro ACA 410",
+      "precio": 26000,
+      "imagen": "https://www.acamarket.com.ar/media/catalog/product/cache/e55d893e2ac43bca85dbfb43d595e8e3/m/a/marketaca-semillas-trigo-2022_604_1.png",
+      "descripcion": "Especial para producción de harinas de calidad."
+    },
+    {
+        "id": 10,
+        "nombre": "Semillas de Centeno ACA 610",
+        "precio": 19500,
+        "imagen": "https://www.peman.com.ar/media/PEM-MONTAJE-CENTENO_3w4GJaj.png",
+        "descripcion": "Excelente opción para suelos arenosos."
+      }
+    ]
