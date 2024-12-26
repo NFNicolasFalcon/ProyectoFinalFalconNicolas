@@ -139,7 +139,7 @@ BotonComprar.addEventListener("click", ()=>{
     }).then((result) => {
         if(result.isConfirmed){
             Swal.fire({
-                title: "Gracias por su compra ¿Me pasa su mail?",
+                title: "Gracias por su compra, por favor ingrese el e-mail donde llegara la factura",
                 input: "email",
             }).then((result) => {
                 if(result !== ""){
